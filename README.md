@@ -20,5 +20,5 @@ Here are some ideas to get you started:
 <a href="https://github.com/tocoteron">
   <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hide-nu&layout=compact&theme=swift" />
 </a>
-[![trophy](https://github-profile-trophy.vercel.app/?username=Hide-nu&theme=flat&column=7
+[![trophy](https://github-profile-trophy.vercel.app/?username=Hide-nu&column=7
 )](https://github.com/ryo-ma/github-profile-trophy)

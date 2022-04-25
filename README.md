@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div style="display: flex; width: 100%; gap: 10%">
+<div style="display: flex; width: 100%; gap: 24px">
   <a href="https://github.com/tocoteron">
     <img height="170px" src="https://github-readme-stats.vercel.app/api?username=Hide-nu&count_private=true&show_icons=true&theme=swift" />
   </a>

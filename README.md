@@ -14,9 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a href="https://github.com/tocoteron">
-  <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=Hide-nu&count_private=true&show_icons=true&theme=swift" />
-</a>
-<a href="https://github.com/tocoteron">
-  <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hide-nu&layout=compact&theme=swift" />
-</a>
+<div style="display: flex; width: 100%; gap: 10%">
+  <a href="https://github.com/tocoteron">
+    <img height="170px" src="https://github-readme-stats.vercel.app/api?username=Hide-nu&count_private=true&show_icons=true&theme=swift" />
+  </a>
+  <a href="https://github.com/tocoteron">
+    <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hide-nu&layout=compact&theme=swift" />
+  </a>
+</div>
